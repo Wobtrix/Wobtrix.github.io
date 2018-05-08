@@ -1,0 +1,239 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video 
+
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+table 
+{
+    border-collapse: collapse;
+    border-spacing: 0;
+    
+}
+#mainHeader
+{
+    background-color: #CE8912;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#about
+{
+    background-color: #fFFFFF;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#aboutMe
+{
+    color: #dcdcdc;
+    font-size: 80px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+#s
+{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mainContent
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 90%;
+}
+
+#myWork
+{
+
+}
+
+#clients
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 2px;
+    color: #FFFFFF;
+    clear: left;
+    text-align: center;
+    background-color: #E94C3D;
+    font-size: 20px;
+}
+
+
+.tg
+{
+    width:100%;
+}
+#devicesTr
+{
+    background-color: #CE8912;
+    margin: 0px;
+}
+#softwareTr
+{
+    background-color: #E84C3D;
+    margin: 0px;
+}
+#skillsTr
+{
+    background-color: #2D3E52;
+    margin: 0px;
+}
+footer
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 110px;
+    padding-bottom: 0px;
+    color: #FFFFFF;
+    clear: left;
+    text-align: center;
+    background-color: #2D3E50;
+    font-size: 20px;
+}
+h1
+{
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+h3
+{    
+    font-size: 20px;
+    margin-top: 0px;
+}
+#robert
+{
+    
+}
+h4
+{    
+    font-size: 25px;
+    margin-top: 0px;
+}
+h5
+{
+    font-size: 25px;
+    color: #dcdcdc;
+    margin: 5px;
+}
+h6
+{
+    font-size: 30px;
+    color: #dcdcdc;
+    margin: 5px;
+}
+h7
+{
+    font-size: 40px;
+    color: #FFFFFF;
+    margin: 20px;
+    
+}
+#work
+{
+    color: #dcdcdc;
+    clear: left;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+#client
+{
+    margin: 20px;
+    margin-bottom: 200px;
+    color: #FFFFFF;
+    font-size: 50px;
+    clear: left;
+    text-align: center;
+}
+#image3
+{
+    display: block;
+    margin-left: ;
+    margin-right: 450px;
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+#image2
+{
+    display: block;
+    margin-left: 140px;
+    margin-right: px;
+    margin-top: 30px;
+}
+#image1
+{
+    display: block;
+    margin-left: 320px ;
+    margin-right:;
+    margin-bottom: 77px;
+}
+#image0
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 80px;
+    padding-top: 40px; 
+}
+.navigation-bar {
+    position: fixed;
+    z-index: 101;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    padding: 15px 0em 5px 0em;
+    background:#ffff; }
+
+.mono {
+    float: left;
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-bottom: 5px;}
+    
+.navigation-bar ul  {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    font-weight: bold;
+    letter-spacing: 1px;}
+
+.navigation-bar ul li {
+    display: inline;
+    margin: 25px;}
+
+.navigation-bar a:link {
+    color: #dcdcdc;
+    text-decoration: none;}
+
+.navigation-bar a:visited {
+    color: #dcdcdc;}
+
+.navigation-bar a:hover {
+    border-bottom: 2px solid #3b3e40;
+    color: #3b3e40 ;
+   }
+.flex-container {
+  display: flex;
+  flex-direction: column;
